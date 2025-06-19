@@ -53,14 +53,14 @@ pilot: true
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Enhancing Research Support through Data Literacy Training"
+title: "Bridging Data Gaps: LC Workshop on Enhancing Research Support through Data Literacy"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
 # in The Carpentries Incubator).
 #
 # For an Incubator workshop, uncomment the line below and add the URL of the lesson site.
-incubator_lesson_site: "https://carpentries-incubator.github.io/machine-learning-librarians-archivists/"
+incubator_lesson_site: "https://github.com/carpentries-incubator/machine-learning-librarians-archivists"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
 # incubator_pre_survey: "put the URL of your pre-workshop survey here"
